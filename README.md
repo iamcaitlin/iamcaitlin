@@ -22,7 +22,7 @@ I’m passionate about using data to solve business challenges, streamline syste
 ---
 
 ## 🔹 Featured Projects
-📊 [Data Visualization & Analysis Project](#) – transforming raw datasets into insights  
+📊 [Data Visualization & Analysis Project](https://github.com/iamcaitlin/Delta-Delay-and-Cancellation-Analysis) – transforming raw datasets into insights  
 
 ---
 
